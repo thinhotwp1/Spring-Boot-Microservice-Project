@@ -16,8 +16,10 @@ public class Oder {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
+
     private String oderNumber;
-    @OneToMany(cascade = CascadeType.ALL)
+
+    @OneToMany(cascade = CascadeType.ALL) // Một oder có thể nhiều mặt hàng (1-n)
     private List<OderLineItems> oderLineItems ;
 
 
