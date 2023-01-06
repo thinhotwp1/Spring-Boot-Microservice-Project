@@ -16,6 +16,8 @@
     <module>oder-service</module>
     <module>inventory-service</module>
     <module>discovery-service</module>
+    <module>api-gateway</module>
+
   </modules>
   <name>Archetype - microservice-new</name>
   <url>http://maven.apache.org</url>
