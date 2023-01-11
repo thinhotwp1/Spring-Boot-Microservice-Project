@@ -17,6 +17,7 @@
     <module>inventory-service</module>
     <module>discovery-service</module>
     <module>api-gateway</module>
+    <module>message-service</module>
 
   </modules>
   <name>Archetype - microservice-new</name>
