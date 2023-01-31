@@ -16,3 +16,4 @@ https://github.com/keycloak/keycloak/releases/download/20.0.2/keycloak-20.0.2.zi
 10. Kiến trúc hướng sự kiện sử dụng Kafka, RabbitMQ
 11. Docker hóa ứng dụng (chưa cần thiết)
 12. Giám sát microservice bằng Prometheus và Grafana (chưa cần thiết)
+Link tài liệu drive: https://docs.google.com/document/d/1ENe5YKkCEMvLKMLXM9fbOUO1jhHZZ5MHWVgQO-Y7lGM/edit?usp=sharing
